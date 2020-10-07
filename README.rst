@@ -9,7 +9,6 @@ Repository For the SmartAgro API Demonstration
 
 
 * Free software: GNU General Public License v3
-* Documentation: https://smartagro-demo.readthedocs.io.
 
 
 Features
